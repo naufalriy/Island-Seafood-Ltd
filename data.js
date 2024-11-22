@@ -331,7 +331,7 @@ var APP_DATA = {
           "yaw": -0.5352893653092714,
           "pitch": 0.16042171470802735,
           "rotation": 0.7853981633974483,
-          "target": "7-front-Hydropower-house"
+          "target": "7-front-power-house"
         },
         {
           "yaw": -2.143889904305162,
@@ -350,7 +350,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "7-front-Hydropower-house",
+      "id": "7-front-power-house",
       "name": "Front Power House",
       "levels": [
         {
@@ -388,7 +388,7 @@ var APP_DATA = {
           "yaw": 0.6028996098338766,
           "pitch": 0.6572875166147938,
           "rotation": 0,
-          "target": "9-Hydropower-house"
+          "target": "9-power-house"
         },
         {
           "yaw": 0.42087085811837355,
@@ -444,7 +444,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "9-Hydropower-house",
+      "id": "9-power-house",
       "name": "Hydropower House",
       "levels": [
         {
@@ -476,7 +476,7 @@ var APP_DATA = {
           "yaw": -2.728329378482389,
           "pitch": 0.2382770248658268,
           "rotation": 0,
-          "target": "7-front-Hydropower-house"
+          "target": "7-front-power-house"
         }
       ],
       "infoHotspots": [
@@ -521,7 +521,7 @@ var APP_DATA = {
           "yaw": -1.1536627384290377,
           "pitch": 0.0333884436921803,
           "rotation": 0.7853981633974483,
-          "target": "7-front-Hydropower-house"
+          "target": "7-front-power-house"
         }
       ],
       "infoHotspots": []
@@ -610,7 +610,7 @@ var APP_DATA = {
           "yaw": -3.0685854193171114,
           "pitch": 0.21910412202086604,
           "rotation": 5.497787143782138,
-          "target": "7-front-Hydropower-house"
+          "target": "7-front-power-house"
         }
       ],
       "infoHotspots": [
