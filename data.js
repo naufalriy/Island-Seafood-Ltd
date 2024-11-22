@@ -445,7 +445,7 @@ var APP_DATA = {
     },
     {
       "id": "9-power-house",
-      "name": "Hydropower House",
+      "name": "Power House",
       "levels": [
         {
           "tileSize": 256,
