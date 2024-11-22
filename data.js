@@ -345,7 +345,7 @@ var APP_DATA = {
           "yaw": 0,
           "pitch": 0,
           "title": "Waste Water Treatment",
-          "text": "<br>"
+          "text": "Treatment plat capacity is 15 cubic meter per hour. The treatment plant processes 9 cubic meter per hour for 9 - 10 hours daily, 5 days per week. Electricity consumption is 18-20 kW/hour. The treatment plant running continously, including recycling at night."
         }
       ]
     },
@@ -407,8 +407,8 @@ var APP_DATA = {
         {
           "yaw": 0.2614203970164013,
           "pitch": 0.39287600182961846,
-          "title": "Power House",
-          "text": "The project was supported by Interreg, as the funder of the power house development."
+          "title": "Hydropower House",
+          "text": "The project was supported by Interreg, which funds the construction of the hydropower house with a budget of 310,000 Euros."
         }
       ]
     },
@@ -445,7 +445,7 @@ var APP_DATA = {
     },
     {
       "id": "9-power-house",
-      "name": "Power House",
+      "name": "Hydropower House",
       "levels": [
         {
           "tileSize": 256,
